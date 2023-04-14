@@ -1,0 +1,74 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: limegreen;
+    padding: 5px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.fact1{
+    display: flex;
+    justify-content: center;
+}
+
+.fact1text{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fact1image{
+    border: 10px solid;
+    border-color: white;
+}
+
+#caption{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fact2{
+display: flex;
+align-items: center;
+flex-direction: row;
+}
+
+.fact2text{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fact2image{
+    border: 10px solid;
+    border-color: white;
+}
+
+#caption2{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fact3{
+display: flex;
+}
+
+.fact3text{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fact3image{
+    border: 10px solid;
+    border-color: white;
+}
+
+#caption3{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}

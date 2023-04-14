@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: limegreen;
+    padding: 5px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
